@@ -1,0 +1,2 @@
+# RegistroRendimento
+O Registro de Rendimento é um programa em Python que permite cadastrar jogadores e acompanhar seu desempenho ao longo de múltiplas partidas. Ele registra o número de jogos disputados e a quantidade de gols marcados em cada um, calculando o total de gols para cada jogador. Além disso, o sistema exibe uma tabela com todas as informações e permite ao usuário consultar o desempenho de um jogador específico.
